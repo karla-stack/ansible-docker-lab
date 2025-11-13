@@ -47,8 +47,8 @@ ansible-playbook -i /home/ansible/inventory.ini /home/ansible/playbook.yml
 ```
 
 ### 5. Verificar en el navegador
-- http://localhost:8081
-- http://localhost:8082
+- http://localhost:2222
+- http://localhost:2223
 
 ## ✅ Resultado
 Los dos servidores mostrarán la página: **"Hola desde Ansible!"**
